@@ -3,7 +3,7 @@ public class Test{
 
 	System.out.println("Siema eniu");
 		kupsko
-// igor ma malego
+// ERYK ma malego
 	}
 }
 		
